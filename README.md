@@ -20,5 +20,7 @@ After cloning you need to run the command.
 
 This will install every dependency.
 
-Now you can run the Unit test to verify the code, then run the project in your IDE.
+### `mvn test `
+
+This will run all the Unit test to verify the code.
 
